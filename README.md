@@ -2,21 +2,14 @@
 
 Course: Comp 365 | Author: Brianna Williams 
 
-## Research Question
-
-## Repository Contents
-
 ## Dataset
 CSV dataset is in the data folder, where you can download the file and upload into the colab. 
 
 ## Setup
 Open the ddos_detection.ipynb file in repository and upload the downloaded CSV file from here into it and run it. 
 
-## How to Run
-
-## Settings
-
-## Results
+## Results 
+Available to view in the results folder in this repository. 
 
 ## AI Assistance Disclosure
 
