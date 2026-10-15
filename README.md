@@ -11,8 +11,6 @@ Open the ddos_detection.ipynb file in repository and upload the downloaded CSV f
 ## Results 
 Available to view in the results folder in this repository. 
 
-## AI Assistance Disclosure
-
 ## Links
 - Demo video: 
 - Paper: 
