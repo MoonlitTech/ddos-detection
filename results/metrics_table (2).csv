@@ -1,0 +1,5 @@
+Detector,Precision,Recall
+Threshold rule (baseline),0.673738,0.999073
+Logistic Regression,0.997686,0.999404
+Decision Tree,0.999801,0.999669
+Random Forest,0.999868,0.999801

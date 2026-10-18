@@ -1,0 +1,5 @@
+Detector,Accuracy,F1,TN,FP,FN,TP
+Threshold rule (baseline),0.712642,0.804769,3066,7305,14,15085
+Logistic Regression,0.998272,0.998544,10336,35,9,15090
+Decision Tree,0.999686,0.999735,10368,3,5,15094
+Random Forest,0.999804,0.999834,10369,2,3,15096

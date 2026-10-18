@@ -1,0 +1,5 @@
+Detector,Inference time (ms/flow)
+Threshold rule (baseline),6.8e-05
+Logistic Regression,0.001931
+Decision Tree,0.001326
+Random Forest,0.005665
