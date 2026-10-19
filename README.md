@@ -81,5 +81,5 @@ The demonstration explains the project goal, dataset, compared approaches, evalu
 AI assistance was used minimally for cleanup and polishing of the project's testing and reproducibility materials. 
 
 ## Links
-- Demo video: 
+- Demo video: https://drive.google.com/file/d/1FjqhRyHQXnn6gpo_PqxiZEJ7jYuDzYvJ/view?usp=sharing 
 - Paper: file:///C:/Users/breew/Downloads/C365_ACM_Research_Paper%20(1).pdf
