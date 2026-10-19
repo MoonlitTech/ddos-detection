@@ -74,7 +74,7 @@ Small differences in timing may occur because of hardware, system load, and runt
 
 **Demo video:** 
 
-The demonstration explains the project goal, dataset, compared approaches, evaluation results, and reproducibility process.
+The demonstration explains the project goal, dataset, compared approaches, evaluation results, and how to upload dataset into the notebook and run it.
 
 ## AI Assistance Disclosure
 
