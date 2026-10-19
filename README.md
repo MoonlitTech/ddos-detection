@@ -82,4 +82,4 @@ AI assistance was used minimally for cleanup and polishing of the project's test
 
 ## Links
 - Demo video: 
-- Paper: https://www.overleaf.com/project/6ad48bfe7d73f68e71191711/share#5be4905b1002285a888b12c5f3125f0537e0c573265f0c34 
+- Paper: file:///C:/Users/breew/Downloads/C365_ACM_Research_Paper%20(1).pdf
