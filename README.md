@@ -1,8 +1,5 @@
 # DDoS Detection with Machine Learning
 
-
-# DDoS Detection Using Machine Learning
-
 ## Project Overview
 
 This project compares three machine-learning classifiers with a packet-rate threshold baseline for detecting Distributed Denial-of-Service (DDoS) traffic.
